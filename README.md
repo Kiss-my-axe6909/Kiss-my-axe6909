@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddharthkumarjha
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DSA (C), OOP (C++), DBMS (oracle 11g), GUI (GTK+) and still looking to learn more
-- 💞️ I’m looking to collaborate on any projects that can I as a noob can provide constructive help to
+- 💞️ I’m looking to collaborate on any projects that I as a noob can provide constructive help to
 - 📫 How to reach me siddharthkjha6909@gmail.com
 
 <!---
