@@ -12,7 +12,7 @@ or simply clicking on **code** and downloading the tarball/zip file from there
 More about me below 👇
 ---
 
-- 👋 Hi, I’m @siddharthkumarjha
+- 👋 Hi, I’m @siddharthkumarjha, your friendly neighbourhood developer.
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DSA (C), OOP (C++), DBMS (oracle 11g), GUI (GTK+) and still looking to learn more
 - 💞️ I’m looking to collaborate on any projects that I as a noob can provide constructive help to
