@@ -4,9 +4,9 @@ You are free to view/download/edit my site or write suggestions for improving it
 ---
 in case you wish to download the source code of my site you can use the traditional git clone method but if you don't have git 
 you can download the tarball using the command
-```shell
+~~~
 curl -# https://api.github.com/repos/siddharthkumarjha/siddharthkumarjha.github.io/releases/latest | grep "tarball_url" | cut -d : -f 2,3 | tr -d \", | wget -i -
-```
+~~~
 or simply clicking on **code** and downloading the tarball/zip file from there
 
 More about me below 👇
